@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Prediction using Flask</title>
+</head>
+<body>
+	<h1><div style="text-align:center;"><font color="blue">
+		Prediction from Regression
+	</font></div></h1>
+	<hr>
+	</br>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-6">
+				<form method="POST" action="/predict">
+					<div class="form-group">
+						<label for='alcohol'>
+							<p class="font-weight-bold">Alcohol</p>
+						</label>
+						<input type="text" name="alcohol">
+					</div>
+					<div class="form-group">
+						<label for='volatile acidity'>
+							<p class="font-weight-bold">volatile acidity</p>
+						</label>
+						<input type="text" name="volatile acidity">
+					</div>
+					<div class="form-group">
+						<label for='sulphates'>
+							<p class="font-weight-bold">sulphates</p>
+						</label>
+						<input type="text" name="sulphates">
+					</div>
+					<div class="form-group">
+						<label for='total sulfur dioxide'>
+							<p class="font-weight-bold">total sulfur dioxide</p>
+						</label>
+						<input type="text" name="total sulfur dioxide">
+					</div>
+					<input type="submit" value="submit">
+				</form>
+			</div>
+		</div>
+		
+	</div>
+</body>
+</html>

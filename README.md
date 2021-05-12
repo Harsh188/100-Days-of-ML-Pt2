@@ -18,6 +18,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learn about AWS microservices
 
 [Additional]
+- Milti-modal Systems
 - Apache Flume
 - MySQL/Apache Spark
 - PostgreSQL
@@ -26,6 +27,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ## Resources ##
 
 ### Books ###
+
 Deploy Machine
 Learning Models
 to Production
@@ -47,11 +49,11 @@ Hands-On GPU Programming with Python and CUDA: Explore High-performance Parallel
 
 ### Web Resources ###
 
-[Made with ML](https://madewithml.com/courses/mlops/)
+- [Made with ML](https://madewithml.com/courses/mlops/)
 
 ## Youtube Log ##
 
-This whole challenge will be documented on youtube during live streams. The link to the playlist: 
+This whole challenge will be documented on youtube during live streams. The link to the playlist: [100 Days of ML](https://www.youtube.com/playlist?list=PLJC9FdR4qnfiTDFDHAiDsxJwvttoFqGS8)
 
 ## Daily Goals ##
 
@@ -61,8 +63,10 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Code a linear regression model</li>
 	<li>Deploy the trained model as a REST service</li>
 </ul>
-</h3>Day 2: Deploy a Linear Regression model using Streamlit</h3>
+<h3>Day 2: Deploy a Linear Regression model using Streamlit</h3>
 <ul>
-	
+	<li>Read the section about streamlit</li>
+	<li>Create UI using streamlit</li>
+	<li>Deploy the trained model as a REST service</li>
 </ul>
 <h3>Day 3: Deploy a Deep Learning model using Streamlit</h3>
