@@ -68,5 +68,25 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read the section about streamlit</li>
 	<li>Create UI using streamlit</li>
 	<li>Deploy the trained model as a REST service</li>
+	<li>code LSTM model</li>
 </ul>
 <h3>Day 3: Deploy a Deep Learning model using Streamlit</h3>
+<ul>
+	<li>Train the LSTM model</li>
+	<li>Create UI using streamlit</li>
+</ul>
+<h3>Day 4: Deploy a Deep Learning model using Streamlit</h3>
+<ul>
+	<li>Deploy the trained model as a REST service</li>
+	<li>Read Chapter 4: ML Deployment using Docker</li>
+</ul>
+<h3>Day 5: Deploy using Docker</h3>
+<ul>
+	<li>Create a dockerfile for Streamlit App</li>
+	<li>Create Docker image</li>
+	<li>Push our Docker image to DockerHub</li>
+</ul>
+<h3>Day 6: ML Deployment using Kubernetes</h3>
+<ul>
+	
+</ul>
