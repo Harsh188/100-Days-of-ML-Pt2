@@ -7,7 +7,6 @@ import tensorflow.keras.models
 from tensorflow.keras.models import model_from_json
 import streamlit
 import re
-from tensorflow import keras
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
@@ -20,7 +19,7 @@ VOCAB_SIZE = 1000
 # lstm_model = model_from_json(loaded_model_json)
 
 # lstm_model.load_weights("model.h5")
-lstm_model = keras.models.load_model('model/')
+lstm_model = tf.keras.models.load_model('model/')
 
 
 # Prediction function

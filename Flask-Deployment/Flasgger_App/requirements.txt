@@ -1,0 +1,6 @@
+flask==2.0
+pandas==0.25.3
+numpy==1.19.5
+sklearn
+joblib
+flasgger

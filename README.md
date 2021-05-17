@@ -8,14 +8,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ## Challenge Goals ##
 
-- Learn how to deploy ML models into production.
-- Learn about the ML Pipeline
-- Learn more about privacy & protection for ML applications
-- Learn the CI/CD for ML
-- Learn about CUDA and get hands on experience
-- Learn more about deep reinforcement learning
-- Learn more about generative learning
-- Learn about AWS microservices
+- [ ] Learn how to deploy ML models into production.
+- [ ] Learn about the ML Pipeline
+- [ ] Learn more about privacy & protection for ML applications
+- [ ] Learn the CI/CD for ML
+- [ ] Learn about CUDA and get hands on experience
+- [ ] Learn more about deep reinforcement learning
+- [ ] Learn more about generative learning
+- [ ] Learn about AWS microservices
 
 [Additional]
 - Milti-modal Systems
@@ -80,13 +80,19 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Deploy the trained model as a REST service</li>
 	<li>Read Chapter 4: ML Deployment using Docker</li>
 </ul>
-<h3>Day 5: Deploy using Docker</h3>
+<h3>Day 5: Deploy ML model using Docker</h3>
 <ul>
-	<li>Create a dockerfile for Streamlit App</li>
+	<li>Create a dockerfile for Flask App</li>
 	<li>Create Docker image</li>
 	<li>Push our Docker image to DockerHub</li>
 </ul>
 <h3>Day 6: ML Deployment using Kubernetes</h3>
+<ul>
+	<li>Read chapter 5: ML Deployment using Kubernetes</li>
+	<li>Create GCP Project</li>
+	<li>Enable and utilize the Kubernetes Engine API on GCP</li>
+</ul>
+<h3>Day 7: Scripting</h3>
 <ul>
 	
 </ul>
