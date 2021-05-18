@@ -1,0 +1,15 @@
+# Project Information
+site_name: 100-Days-of-ML-Pt2
+site_description: Deploys a Linear Regression model
+site_author: Harshith Mohan Kumar
+
+# Repository
+repo_url: https://github.com/Harsh188/100-Days-of-ML-Pt2
+repo_name: Harsh188/100-Days-of-ML-Pt2
+edit_uri: "" 
+
+# Page Tree
+
+nav:
+  - Home:
+    - 100-Days-of-ML-Pt2: index.md
