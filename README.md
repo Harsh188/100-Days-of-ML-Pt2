@@ -8,7 +8,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ## Challenge Goals ##
 
-- [ ] Learn how to deploy ML models into production.
+- [x] Learn how to deploy ML models into production.
+- [x] Learn about scripting for MLOps
 - [ ] Learn about the ML Pipeline
 - [ ] Learn more about privacy & protection for ML applications
 - [ ] Learn the CI/CD for ML
@@ -50,6 +51,13 @@ Hands-On GPU Programming with Python and CUDA: Explore High-performance Parallel
 ### Web Resources ###
 
 - [Made with ML](https://madewithml.com/courses/mlops/)
+
+@article{madewithml,
+    title  = "MLOps - Made With ML",
+    author = "Goku Mohandas",
+    url    = "https://madewithml.com/courses/mlops/organization/"
+    year   = "2021",
+}
 
 ## Youtube Log ##
 
@@ -94,5 +102,16 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 7: Scripting</h3>
 <ul>
-	
+	<li>Read topics under scripting from MadeWithML</li>
+	<li>Apply learning by adding it to current projects</li>
+</ul>
+<h3>Day 8: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read Ch1: Introduction</li>
+	<li>Read Ch2: Introduction to TensorFlow Extended</li>
+</ul>
+<h3>Day 9: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read Ch3: Data Ingestion</li>
+	<li>Read Ch4: Data Validation</li>
 </ul>
