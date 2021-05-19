@@ -112,6 +112,6 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 9: Reading Building ML Pipelines</h3>
 <ul>
+	<li>Read Ch2: Introduction to TensorFlow Extended</li>
 	<li>Read Ch3: Data Ingestion</li>
-	<li>Read Ch4: Data Validation</li>
 </ul>
