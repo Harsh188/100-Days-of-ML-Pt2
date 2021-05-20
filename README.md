@@ -115,3 +115,12 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read Ch2: Introduction to TensorFlow Extended</li>
 	<li>Read Ch3: Data Ingestion</li>
 </ul>
+<h3>Day 10: TFX Setup</h3>
+<ul>
+	<li>Download and setup TFX</li>
+	<li>Execute TFX Data Ingestion examples</li>
+</ul>
+<h3>Day 11: Reading Building ML Pipelines</h3>
+<ul>
+
+</ul>
