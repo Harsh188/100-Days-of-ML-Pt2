@@ -120,7 +120,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Download and setup TFX</li>
 	<li>Execute TFX Data Ingestion examples</li>
 </ul>
-<h3>Day 11: Reading Building ML Pipelines</h3>
+<h3>Day 11: TFX Data Ingestion</h3>
 <ul>
-
+	<li>Follow [TFX tutorial](https://www.tensorflow.org/tfx/tutorials/tfx/penguin_simple#install_tfx)</li>
 </ul>
