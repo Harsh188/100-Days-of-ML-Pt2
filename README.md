@@ -14,7 +14,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - [ ] Learn more about privacy & protection for ML applications
 - [ ] Learn the CI/CD for ML
 - [ ] Learn about CUDA and get hands on experience
-- [ ] Learn more about deep reinforcement learning
+- [x] Learn more about deep reinforcement learning
 - [ ] Learn more about generative learning
 - [ ] Learn about AWS microservices
 
@@ -124,3 +124,14 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Follow [TFX tutorial](https://www.tensorflow.org/tfx/tutorials/tfx/penguin_simple#install_tfx)</li>
 </ul>
+<h3>Day 12: TFX Data Ingestion</h3>
+<ul>
+	<li>Try using Colab</li>
+	<li>Check online resources and try to debugg [TFX tutorial](https://www.tensorflow.org/tfx/tutorials/tfx/penguin_simple#install_tfx)</li>
+</ul>
+<h3>Day 13: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read ch4: Data Validation</li>
+	<li>Read ch5: </li>
+</ul>
+<h3>Day 14: </h3>
