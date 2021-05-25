@@ -134,9 +134,17 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read Ch4: Data Validation</li>
 	<li>Read online resources on TFX Data Validation</li>
 </ul>
-<h3>Day 14: Reading Building ML Pipelines</h3>
+<h3>Day 14: Data Validation</h3>
+<ul>
+	<li>Read online resources on TFX Data Validation</li>
+	<li>Execute example code for TFVD</li>
+</ul>
+<h3>Day 15: Reading Building ML Pipelines</h3>
 <ul>
 	<li>Read Ch5: Data Preprocessing</li>
 	<li>Read online resources on TFX Data Preprocessing</li>
 </ul>
-<h3>Day 15: </h3>
+<h3>Day 16: Data Preprocessing</h3>
+<ul>
+	
+</ul>
