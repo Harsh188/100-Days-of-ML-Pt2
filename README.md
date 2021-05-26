@@ -146,5 +146,11 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 16: Data Preprocessing</h3>
 <ul>
+	<li>Read more about feature engineering</li>
+	<li>Feature engineering vs ML engineering</li>
+	<li>Execute example code for TF Transform</li>
+</ul>
+<h3>Day 17: Reading Building ML Pipelines</h3>
+<ul>
 	
 </ul>
