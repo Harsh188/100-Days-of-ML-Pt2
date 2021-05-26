@@ -23,6 +23,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 [Additional]
 - Milti-modal Systems
 - Apache Flume
+- [x] Apache Beam
 - MySQL/Apache Spark
 - PostgreSQL
 - Optimizing/architecting software/hardware solutions for ML
