@@ -153,7 +153,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Feature engineering vs ML engineering</li>
 	<li>Execute example code for TF Transform</li>
 </ul>
-<h3>Day 17: Reading Building ML Pipelines</h3>
+<h3>Day 17: MLOps Production</h3>
 <ul>
-	
+	<li>Read about production from [Made with ML](https://madewithml.com/courses/mlops/)</li>
 </ul>
