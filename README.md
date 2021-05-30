@@ -169,3 +169,11 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read Ch 7: Model Analysis and Validation</li>
 	<li>Read online resources on TF Model Analysis</li>
 </ul>
+<h3>Day 20: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read Ch 8: Model Deployment with TensorFlow Serving</li>
+</ul>
+<h3>Day 21: Plan out an ML Product to Build</h3>
+<ul>
+	
+</ul>
