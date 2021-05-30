@@ -156,4 +156,11 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 17: MLOps Production</h3>
 <ul>
 	<li>Read about production from [Made with ML](https://madewithml.com/courses/mlops/)</li>
+	<li>Watch youtube videos on CI/CD workflows</li>
+	<li>Learn more about Github Actions </li>
+</ul>
+<h3>Day 18: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read Ch 6: Model Training</li>
+	li>Read online resources on </li>
 </ul>
