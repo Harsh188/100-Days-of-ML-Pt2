@@ -162,5 +162,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 18: Reading Building ML Pipelines</h3>
 <ul>
 	<li>Read Ch 6: Model Training</li>
-	li>Read online resources on </li>
+	<li>Read online resources on TFX Trainer Component</li>
+</ul>
+<h3>Day 19: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read Ch 7: Model Analysis and Validation</li>
+	<li>Read online resources on TF Model Analysis</li>
 </ul>
