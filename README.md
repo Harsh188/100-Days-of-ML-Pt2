@@ -173,7 +173,12 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read Ch 8: Model Deployment with TensorFlow Serving</li>
 </ul>
-<h3>Day 21: Plan out an ML Product to Build</h3>
+<h3>Day 21: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Continue reading Ch8: Model Deployment with TensorFlow Serving</li>
+	<li>Read online resources on TF Serving</li>
+</ul>
+<h3>Day 22: Plan out an ML Product to Build</h3>
 <ul>
 	
 </ul>
