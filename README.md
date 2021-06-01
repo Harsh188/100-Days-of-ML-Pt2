@@ -10,9 +10,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 - [x] Learn how to deploy ML models into production.
 - [x] Learn about scripting for MLOps
-- [ ] Learn about the ML Pipeline
+- [x] Learn about the ML Pipeline
 - [ ] Learn more about privacy & protection for ML applications
-- [ ] Learn the CI/CD for ML
+- [x] Learn the CI/CD for ML
 - [ ] Learn about CUDA and get hands on experience
 - [ ] Learn more about deep reinforcement learning
 	- [x] Markov Chains
@@ -179,6 +179,17 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read online resources on TF Serving</li>
 </ul>
 <h3>Day 22: Plan out an ML Product to Build</h3>
+<ul>
+	<li>Look into simple ML models to deploy</li>
+	<li>Create the architecture for the pipeline</li>
+	<li>Choose how to build front-end</li>
+	<li>How to integrate CI/CD into project</li>
+	<li>FLASK Web deployment vs Model Server</li>
+	<li>What orchestration tool to use?</li>
+	<li>Create order of events</li>
+	<li>Look into setting up GitHub Project</li>
+</ul>
+<h3>Day 23: Plan out an ML Product to Build</h3>
 <ul>
 	
 </ul>
