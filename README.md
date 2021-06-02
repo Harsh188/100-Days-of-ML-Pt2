@@ -182,14 +182,15 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Look into simple ML models to deploy</li>
 	<li>Create the architecture for the pipeline</li>
+	<li>Setup/Decide on github project organization</li>
 	<li>Choose how to build front-end</li>
+	<li>What orchestration tool to use?</li>
+</ul>
+<h3>Day 23: Plan out an ML Product to Build</h3>
+<ul>
 	<li>How to integrate CI/CD into project</li>
 	<li>FLASK Web deployment vs Model Server</li>
-	<li>What orchestration tool to use?</li>
 	<li>Create order of events</li>
 	<li>Look into setting up GitHub Project</li>
 </ul>
 <h3>Day 23: Plan out an ML Product to Build</h3>
-<ul>
-	
-</ul>
