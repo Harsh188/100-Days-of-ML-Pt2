@@ -193,4 +193,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Create order of events</li>
 	<li>Look into setting up GitHub Project</li>
 </ul>
-<h3>Day 23: Plan out an ML Product to Build</h3>
+<h3>Day 24: Build Dockerfile for ML Project</h3>
+<ul>
+	<li>List out dependencies</li>
+	<li>Create Dockerfile</li>
+	<li>Build Docker Image</li>
+<ul>
