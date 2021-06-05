@@ -200,7 +200,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Build Docker Image</li>
 	<li>Run Docker container</li>
 	<li>Check if GPU is being used</li>
-<ul>
+</ul>
 <h3>Day 25: Setup TFX Pipeline Architecture</h3>
 <ul>
 	<li>Setup TFX pipeline</li>
