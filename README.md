@@ -212,6 +212,13 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Setup TFX pipeline</li>
 	<li>Design TFX architecture</li>
 </ul>
-<h3>Day 27: Data Ingestion</h3>
+<h3>Day 27: TFX Pipeline</h3>
+<ul>
+	<li>Understand the template code</li>
+	<li>Clear out the template files and rewrite the pipeline</li>
+</ul>
+<h3>Day 28: Import Data</h3>
+<ul>
 	
+</ul>
 	
