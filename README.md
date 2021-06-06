@@ -201,11 +201,17 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Run Docker container</li>
 	<li>Check if GPU is being used</li>
 </ul>
-<h3>Day 25: Setup TFX Pipeline Architecture</h3>
+<h3>Day 25: Build Dockerfile for ML Project</h3>
+<ul>
+	<li>Troubleshoot Dockerfile</li>
+	<li>Build Docker Image</li>
+	<li>Update README.md</li>
+</ul>
+<h3>Day 26: Setup TFX Pipeline Architecture</h3>
 <ul>
 	<li>Setup TFX pipeline</li>
 	<li>Design TFX architecture</li>
 </ul>
-<h3>Day 26: Data Ingestion</h3>
+<h3>Day 27: Data Ingestion</h3>
 	
 	
