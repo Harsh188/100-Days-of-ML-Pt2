@@ -219,6 +219,11 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 28: Import Data</h3>
 <ul>
-	
+	<li>Change permissions for files in /ml</li>
+	<li>Add the IMDB datset into /data</li>
+	<li>Add custom data ingestion component</li>
 </ul>
-	
+<h3>Day 29: Import Data</h3>
+<ul>
+
+</ul>
