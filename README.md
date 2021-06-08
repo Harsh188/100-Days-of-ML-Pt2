@@ -221,9 +221,15 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Change permissions for files in /ml</li>
 	<li>Add the IMDB datset into /data</li>
-	<li>Add custom data ingestion component</li>
+	<li>Convert dataset to desired format</li>
 </ul>
-<h3>Day 29: Import Data</h3>
+<h3>Day 29: Add Formating/Styling</h3>
+<ul>
+	<li>Setup formating/styling</li>
+	<li>Black & flake8</li>
+	<li>Setup github actions</li>
+</ul>
+<h3>Day 30: Data Validation</h3>
 <ul>
 
 </ul>
