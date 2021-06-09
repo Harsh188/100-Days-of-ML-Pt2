@@ -231,5 +231,12 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 30: Data Validation</h3>
 <ul>
+	<li>Fix features.py</li>
+	<li>Generate statistics</li>
+	<li>Visualize statistics</li>
+	<li>Infer schema</li>
+</ul>
+<h3>Day 31: Data Preprocessing</h3>
+<ul>
 
 </ul>
