@@ -236,7 +236,11 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Visualize statistics</li>
 	<li>Infer schema</li>
 </ul>
-<h3>Day 31: Data Preprocessing</h3>
+<h3>Day 31: Troubleshooting Data Ingestion/Validation</h3>
+<ul>
+	<li>Figure out why example gen is not loading</li>
+</ul>
+<h3>Day 32: Data Preprocessing</h3>
 <ul>
 
 </ul>
