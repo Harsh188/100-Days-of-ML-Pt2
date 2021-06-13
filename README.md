@@ -250,5 +250,13 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Change preprocessing.py</li>
 	<li>Test Preprocessing</li>
+</ul>
+<h3>Day 34: Continue Data Preprocessing</h3>
+<ul>
+	<li>Test Preprocessing</li>
 	<li>Add TFX Transform to tfx pipeline components</li>
+</ul>
+<h3>Day 35: </h3>
+<ul>
+
 </ul>
