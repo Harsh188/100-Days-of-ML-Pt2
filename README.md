@@ -256,7 +256,18 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Test Preprocessing</li>
 	<li>Add TFX Transform to tfx pipeline components</li>
 </ul>
-<h3>Day 35: </h3>
+<h3>Day 35: Model Training</h3>
+<ul>
+	<li>Prototype the tfx trainer component in jupyter</li>
+	<li>Modify model.py</li> 
+</ul>
+<h3>Day 36: Continue Model Training</h3>
+<ul>
+	<li>Modify model.py</li> 
+	<li>Add tfx trainer component to pipeline</li>
+	<li>Test pipeline</li>
+</ul>
+<h3>Day 36: </h3>
 <ul>
 
 </ul>
