@@ -267,7 +267,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Add tfx trainer component to pipeline</li>
 	<li>Test pipeline</li>
 </ul>
-<h3>Day 36: </h3>
+<h3>Day 36: Read Building ML Pipelines</h3>
 <ul>
-
+	<li>Read Kubeflow chapter</li>
 </ul>
