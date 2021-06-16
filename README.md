@@ -269,5 +269,5 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 37: Read Building ML Pipelines</h3>
 <ul>
-	<li>Read Kubeflow chapter</li>
+	<li>Read Kubeflow chapter</li> 
 </ul>
