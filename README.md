@@ -269,5 +269,9 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 37: Read Building ML Pipelines</h3>
 <ul>
-	<li>Read Kubeflow chapter</li> 
+	<li>Read ch: 12 of Building Ml Piplines - Kubeflow pipeline</li> 
+</ul>
+<h3>Day 38: Reading Building ML Pipelines</h3>
+<ul>
+	<li>Read ch: 11 of Building Ml Piplines - Apache Beam & Apache Airflow</li>
 </ul>
