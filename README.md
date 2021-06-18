@@ -274,4 +274,11 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 38: Reading Building ML Pipelines</h3>
 <ul>
 	<li>Read ch: 11 of Building Ml Piplines - Apache Beam & Apache Airflow</li>
+	<li>Read [Graph-based Neural Structured Learning in TFX](https://www.tensorflow.org/tfx/tutorials/tfx/neural_structured_learning#the_trainer_component)</li>
+</ul>
+<h3>Day 39: Debug Model Training</h3>
+<ul>
+	<li>Figure out how the tfx IMDB example in tensorflow works</li>
+	<li>Understand the use for custom tfx components in the tutorial</li>
+	<li>Understand the preprocessing required for the model using the IMDB dataset</li>
 </ul>
