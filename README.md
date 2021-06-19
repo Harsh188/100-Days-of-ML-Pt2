@@ -11,11 +11,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - [x] Learn how to deploy ML models into production.
 - [x] Learn about scripting for MLOps
 - [x] Learn about the ML Pipeline
+	- [x] TFX Components
+	- [x] Orchestration tools
 - [ ] Learn more about privacy & protection for ML applications
 - [x] Learn the CI/CD for ML
 - [ ] Learn about CUDA and get hands on experience
 - [ ] Learn more about deep reinforcement learning
 	- [x] Markov Chains
+	- [x] Stationary distribution probabilities
 	- [ ] Markov Decision Processes
 - [ ] Learn more about generative learning
 - [ ] Learn about AWS microservices
@@ -24,6 +27,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Milti-modal Systems
 - Apache Flume
 - [x] Apache Beam
+- [x] Apache Airflow
 - MySQL/Apache Spark
 - PostgreSQL
 - Optimizing/architecting software/hardware solutions for ML
@@ -278,7 +282,13 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 39: Debug Model Training</h3>
 <ul>
-	<li>Figure out how the tfx IMDB example in tensorflow works</li>
+	<li>Figure out how the tfx IMDB example in tensorflow tutorial works</li>
 	<li>Understand the use for custom tfx components in the tutorial</li>
 	<li>Understand the preprocessing required for the model using the IMDB dataset</li>
 </ul>
+<h3>Day 40: Find resources for learning CUDA</h3>
+<ul>
+	<li>Find a book to read for CUDA</li>
+	<li>Search for alternative resources online</li>
+</ul>
+<h3>Day 41: </h3>
