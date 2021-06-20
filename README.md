@@ -300,4 +300,12 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Find a book to read for CUDA</li>
 	<li>Search for alternative resources online</li>
 </ul>
-<h3>Day 41: </h3>
+<h3>Day 41: Start reading GPU Programming with CUDA</h3>
+<ul>
+	<li>Download a digital version of the book</li>
+	<li>Start the introductory chapters</li>
+</ul>
+<h3>Day 42: Setup development enviroment for CUDA</li>
+<ul>
+	<li>Build docker container with all the dependencies for programming CUDA using Python</li>
+</ul>
