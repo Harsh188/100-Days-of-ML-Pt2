@@ -1,3 +1,12 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Youtube][youtube-shield]][youtube-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/harsh188/
+[youtube-shield]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[youtube-url]: https://www.youtube.com/channel/UCFpda-r5V_aHpBVgYhm_JDA
+
 # 100-Days-of-ML-Pt2
 
 Daily log to track my progress on the 100 days of ML code challenge.
