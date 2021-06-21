@@ -37,6 +37,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Apache Flume
 - [x] Apache Beam
 - [x] Apache Airflow
+- [x] Using Amdahl's Law
 - MySQL/Apache Spark
 - PostgreSQL
 - Optimizing/architecting software/hardware solutions for ML
@@ -304,6 +305,7 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Download a digital version of the book</li>
 	<li>Start the introductory chapters</li>
+	<li>Using Amdahl's Law</li>
 </ul>
 <h3>Day 42: Setup development enviroment for CUDA</li>
 <ul>
