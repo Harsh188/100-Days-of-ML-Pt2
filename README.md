@@ -307,7 +307,11 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Start the introductory chapters</li>
 	<li>Using Amdahl's Law</li>
 </ul>
-<h3>Day 42: Setup development enviroment for CUDA</h3>
+<h3>Day 42: Start reading GPU Programming with CUDA</h3>
+<ul>
+	<li>Read Chapter 1 and 2<li>
+</ul>
+<h3>Day 43: Setup development enviroment for CUDA</h3>
 <ul>
 	<li>Build docker container with all the dependencies for programming CUDA using Python</li>
 </ul>
