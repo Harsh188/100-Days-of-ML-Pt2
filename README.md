@@ -309,9 +309,23 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 42: Start reading GPU Programming with CUDA</h3>
 <ul>
-	<li>Read Chapter 1 and 2<li>
+	<li>Learn about Mandelbrot set<li>
+	<li>What are profilers? cProfile module</li>
+	<li>Setting up GPU programming environment in Linux</li>
 </ul>
 <h3>Day 43: Setup development enviroment for CUDA</h3>
 <ul>
-	<li>Build docker container with all the dependencies for programming CUDA using Python</li>
+	<li>Test on local environment</li>
+	<li>Figure out depencies</li>
+	<li>Create Dockerfile</li>
+	<li>Build Docker image</li>
+	<li>Test docker container with all the dependencies for programming CUDA using Python</li>
+</ul>
+<h3>Day 44: Read GPU Programming with CUDA</h3>
+<ul>
+	<li>Read chapter 3: Getting Started with PyCUDA</li>
+</ul>
+<h3>Day 45: Troubleshoot TFX Transform component</h3>
+<ul>
+
 </ul>
