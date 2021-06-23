@@ -313,7 +313,13 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>What are profilers? cProfile module</li>
 	<li>Setting up GPU programming environment in Linux</li>
 </ul>
-<h3>Day 43: Setup development enviroment for CUDA</h3>
+<h3>Day 43: Scouting Internships
+<ul>
+	<li>Search for research internships</li>
+	<li>Create a spredsheet with all the important dates listed</li>
+	<Create and organize a small google document with all relavent links and information</li>
+</ul>
+<h3>Day 44: Setup development enviroment for CUDA</h3>
 <ul>
 	<li>Test on local environment</li>
 	<li>Figure out depencies</li>
@@ -321,11 +327,11 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Build Docker image</li>
 	<li>Test docker container with all the dependencies for programming CUDA using Python</li>
 </ul>
-<h3>Day 44: Read GPU Programming with CUDA</h3>
+<h3>Day 45: Read GPU Programming with CUDA</h3>
 <ul>
 	<li>Read chapter 3: Getting Started with PyCUDA</li>
 </ul>
-<h3>Day 45: Troubleshoot TFX Transform component</h3>
+<h3>Day 46: Troubleshoot TFX Transform component</h3>
 <ul>
 
 </ul>
