@@ -335,3 +335,4 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 
 </ul>
+<h3>Day 47: Mandelbrot Set</h3>
