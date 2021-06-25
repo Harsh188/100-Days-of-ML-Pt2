@@ -309,11 +309,11 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 42: Start reading GPU Programming with CUDA</h3>
 <ul>
-	<li>Learn about Mandelbrot set<li>
+	<li>Learn about Mandelbrot set</li>
 	<li>What are profilers? cProfile module</li>
 	<li>Setting up GPU programming environment in Linux</li>
 </ul>
-<h3>Day 43: Scouting Internships
+<h3>Day 43: Scouting Internships</h3>
 <ul>
 	<li>Search for research internships</li>
 	<li>Create a spredsheet with all the important dates listed</li>
@@ -330,9 +330,16 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 45: Read GPU Programming with CUDA</h3>
 <ul>
 	<li>Read chapter 3: Getting Started with PyCUDA</li>
+	<li>CPU vs GPU timing</li>
+	<li>Parallelizing the mandelbrot set</li>
 </ul>
 <h3>Day 46: Troubleshoot TFX Transform component</h3>
 <ul>
-
+	<li>Re-implement the tokenization</li>
+	<li>Use keras TextVectorizer</li>
+	<li>Build setence sequences</li>
 </ul>
 <h3>Day 47: Mandelbrot Set</h3>
+<ul>
+	
+</ul>
