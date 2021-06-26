@@ -337,7 +337,7 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Re-implement the tokenization</li>
 	<li>Use keras TextVectorizer</li>
-	<li>Build setence sequences</li>
+	<li>Build sentence sequences</li>
 </ul>
 <h3>Day 47: Mandelbrot Set</h3>
 <ul>
