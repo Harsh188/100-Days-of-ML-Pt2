@@ -317,7 +317,7 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Search for research internships</li>
 	<li>Create a spredsheet with all the important dates listed</li>
-	<Create and organize a small google document with all relavent links and information</li>
+	<li>Create and organize a small google document with all relavent links and information</li>
 </ul>
 <h3>Day 44: Setup development enviroment for CUDA</h3>
 <ul>
