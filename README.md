@@ -341,5 +341,12 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 47: Mandelbrot Set</h3>
 <ul>
-	
+	<li>Code using sequential utilizing CPU</li>
+	<li>Parallelize the code to run on GPU</li>
+</ul>
+<h3>Day 48: Read GPU Programming with CUDA</h3>
+<ul>
+	<li>Funcitonal programming</li>
+	<li>Parallel scan and reduction kernel basics</li>
+	<li>Kernels, Threads, Blocks, and Grids</li>
 </ul>
