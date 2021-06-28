@@ -350,3 +350,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Parallel scan and reduction kernel basics</li>
 	<li>Kernels, Threads, Blocks, and Grids</li>
 </ul>
+<h3>Day 49: Write article on 100 Days of ML Pt2</h3>
+<ul>
+	<li>Talk about all of the knowledge I've gained so far</li>
+	<li>Current objectives</li>
+	<li>Future tasks</li>
+</ul>
