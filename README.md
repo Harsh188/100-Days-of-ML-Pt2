@@ -356,3 +356,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Current objectives</li>
 	<li>Future tasks</li>
 </ul>
+<h3>Day 50: Review medium article on 100 Days of ML Pt2</h3>
+<ul>
+	<li>Finish up future tasks</li>
+	<li>Include GitHub</li>
+	<li>Link website</li>
+</ul>
