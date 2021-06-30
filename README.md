@@ -362,3 +362,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Include GitHub</li>
 	<li>Link website</li>
 </ul>
+<h3>Day 51: Read ML Applications</h3>
+<ul>
+	<li>Start with introduction</li>
+	<li>Read first 2 chapters</li>
+	<li>Evaluate the book</li>
+</ul>
