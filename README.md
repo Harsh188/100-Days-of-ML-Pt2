@@ -365,6 +365,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 51: Read ML Applications</h3>
 <ul>
 	<li>Start with introduction</li>
-	<li>Read first 2 chapters</li>
-	<li>Evaluate the book</li>
+	<li>Read chapter 1</li>
+</ul>
+<h3>Day 52: Read ML Applications</h3>
+<ul>
+	<li>Continue chapter 1 - From Product Goal to ML Framing</li>
+	<li>Start chapter 2 - Create a Plan</li>
 </ul>
