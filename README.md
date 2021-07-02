@@ -371,4 +371,11 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Continue chapter 1 - From Product Goal to ML Framing</li>
 	<li>Start chapter 2 - Create a Plan</li>
+	<li>Start reading ML Paper every week</li>
+</ul>
+<h3>Day 53: Read ML Applications</h3>
+<ul>
+	<li>Finish chapter 2 - Create a Plan</li>
+	<li>Review Part I. Find the Correct ML Approach</li>
+	<li>Read more about model metrics</li>
 </ul>
