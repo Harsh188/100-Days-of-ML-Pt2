@@ -379,3 +379,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Review Part I. Find the Correct ML Approach</li>
 	<li>Read more about model metrics</li>
 </ul>
+<h3>Day 54: Implement learning from chapters 1 and 2</h3>
+<ul>
+	<li>Find an existing problem</li>
+	<li>Determine if it can be solved using ML</li>
+	<li>Look for datasets and determine what model would work</li>
+</ul>
