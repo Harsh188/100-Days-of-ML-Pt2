@@ -385,3 +385,8 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Determine if it can be solved using ML</li>
 	<li>Look for datasets and determine what model would work</li>
 </ul>
+<h3>Day 55: Read ML Applications</h3>
+<ul>
+	<li>Read Chapter 3 - Build Your First End-to-End Pipeline</li>
+	<li>Read Chapter 4 - Aquire an Initial Dataset</li>
+</ul>
