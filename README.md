@@ -390,3 +390,8 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read Chapter 3 - Build Your First End-to-End Pipeline</li>
 	<li>Read Chapter 4 - Aquire an Initial Dataset</li>
 </ul>
+<h3>Day 56: Reading ML Applications</h3>
+<ul>
+	<li>Continue Chapter 4</li>
+	<li>Review Part II. Build a Working Pipeline</li>
+</ul>
