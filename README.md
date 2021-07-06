@@ -395,3 +395,9 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Continue Chapter 4</li>
 	<li>Review Part II. Build a Working Pipeline</li>
 </ul>
+<h3>Day 57: Setting up Paper-a-Week Repo</h3>
+<ul>
+	<li>Setup GitHub repo for paper-a-week challenge</li>
+	<li>Decide on a list of papers to read</li>
+	<li>Start reading the first paper</li>
+</ul>
