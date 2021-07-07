@@ -401,3 +401,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Decide on a list of papers to read</li>
 	<li>Start reading the first paper</li>
 </ul>
+<h3>Day 58: Reading ML Applications</h3>
+<ul>
+	<li>Read Part III </li>
+</ul>
