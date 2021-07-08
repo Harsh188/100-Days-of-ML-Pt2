@@ -406,3 +406,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read Part III - Iterate on Models</li>
 	<li>Read Chapter 5 - Train and Evaluate Your Model</li>
 </ul>
+<h3>Day 59: Reading ML Applications</h3>
+<ul>
+	<li>Continue reading Ch 5</li>
+</ul>
