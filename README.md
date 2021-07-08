@@ -403,5 +403,6 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 58: Reading ML Applications</h3>
 <ul>
-	<li>Read Part III </li>
+	<li>Read Part III - Iterate on Models</li>
+	<li>Read Chapter 5 - Train and Evaluate Your Model</li>
 </ul>
