@@ -408,5 +408,9 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 59: Reading ML Applications</h3>
 <ul>
-	<li>Continue reading Ch 5</li>
+	<li>Finish reading Ch 5</li>
+</ul>
+<h3>Day 60: Reading ML Applications</h3>
+<ul>
+	<li>Read Chapter 6 - Debug Your ML Problems</li>
 </ul>
