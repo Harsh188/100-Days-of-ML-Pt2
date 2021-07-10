@@ -414,3 +414,8 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read Chapter 6 - Debug Your ML Problems</li>
 </ul>
+<h3>Day 61: Reading ML Applications</h3>
+<ul>
+	<li>Finish reading Chapter 6</li>
+	<li>Think of ways to test preprocessing in ML-Pipelines project</li>
+</ul>
