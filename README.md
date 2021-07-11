@@ -419,3 +419,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Finish reading Chapter 6</li>
 	<li>Think of ways to test preprocessing in ML-Pipelines project</li>
 </ul>
+<h3>Day 62: Prototype ML Pipelines Project</h3>
+<ul>
+	<li>Build the model on Jupyter Notebook</li>
+</ul>
