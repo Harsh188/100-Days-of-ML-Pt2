@@ -422,4 +422,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 62: Prototype ML Pipelines Project</h3>
 <ul>
 	<li>Build the model on Jupyter Notebook</li>
+	<li>Finish Data Ingestion</li>
+</ul>
+<h3>Day 63: ML Project pt 17. Prototype</h3>
+<ul>
+	<li>Finish data preprocessing</li>
+	<li>Analyze processed data</li>
 </ul>
