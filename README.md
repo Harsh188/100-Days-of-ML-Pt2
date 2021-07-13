@@ -424,8 +424,13 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Build the model on Jupyter Notebook</li>
 	<li>Finish Data Ingestion</li>
 </ul>
-<h3>Day 63: ML Project pt 17. Prototype</h3>
+<h3>Day 63: ML Project pt 17 - Prototype</h3>
 <ul>
-	<li>Finish data preprocessing</li>
+	<li>Finish filtering HTML tags from string</li>
+</ul>
+<h3>Day 64: ML Project pt 18 - Prototype</h3>
+<ul>
+	<li>Vectorize the filtered string</li>
+	<li>Create embeddings</li>
 	<li>Analyze processed data</li>
 </ul>
