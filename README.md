@@ -431,6 +431,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 64: ML Project pt 18 - Prototype</h3>
 <ul>
 	<li>Vectorize the filtered string</li>
-	<li>Create embeddings</li>
-	<li>Analyze processed data</li>
+</ul>
+<h3>Day 65: ML Project pt 19 - Prototype</h3>
+<ul>
+	<li>Analyze processed data</li>	
+	<li>Figure out how to create embeddings</li>
 </ul>
