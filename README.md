@@ -434,6 +434,12 @@ This whole challenge will be documented on youtube during live streams. The link
 </ul>
 <h3>Day 65: ML Project pt 19 - Prototype</h3>
 <ul>
-	<li>Analyze processed data</li>	
 	<li>Figure out how to create embeddings</li>
+	<li>Create embeddings</li>
+</ul>
+<h3>Day 66: ML Project pt 20 - Prototype</h3>
+<ul>
+	<li>Analyze processed data</li>	
+	<li>What is the model doing?</li>
+	<li>How to build the DL model?</li>
 </ul>
