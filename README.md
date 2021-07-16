@@ -441,5 +441,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Analyze processed data</li>	
 	<li>What is the model doing?</li>
+</ul>
+<h3>Day 65: ML Project pt 21 - Prototype</h3>
+<ul>
 	<li>How to build the DL model?</li>
+	<li>Build the DL model</li>
+	<li>Run tests</li>
 </ul>
