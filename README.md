@@ -448,3 +448,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Build the DL model</li>
 	<li>Run tests</li>
 </ul>
+<h3>Day 68: Reading Data Science paper</h3>
+<ul>
+	<li>Read and take notes on Data preprocessing - Tidy data - by Hadley Wickham</li>
+</ul>
