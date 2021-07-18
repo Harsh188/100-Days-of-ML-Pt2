@@ -452,3 +452,8 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read and take notes on Data preprocessing - Tidy data - by Hadley Wickham</li>
 </ul>
+<h3>Day 69: Reading Tidy Data</h3>
+<ul>
+	<li>Continue with section 3</li>
+	<li>Revise sections 1-3</li>
+</ul>
