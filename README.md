@@ -457,3 +457,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Continue with section 3</li>
 	<li>Revise sections 1-3</li>
 </ul>
+<h3>Day 70: Reading Tidy Data</h3>
+<ul>
+	<li>Continue with section 4</li>
+</ul>
