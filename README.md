@@ -460,4 +460,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 70: Reading Tidy Data</h3>
 <ul>
 	<li>Continue with section 4</li>
+	<li>Finished reading Tidy Data</li>
+</ul>
+<h3>Day 71: Reading ML Applications</li>
+<ul>
+	<li>Start Chapter 7 - Using Classifiers for Writing Recommendations</li>
 </ul>
