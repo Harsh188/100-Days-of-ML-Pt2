@@ -462,7 +462,12 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Continue with section 4</li>
 	<li>Finished reading Tidy Data</li>
 </ul>
-<h3>Day 71: Reading ML Applications</li>
+<h3>Day 71: Reading ML Applications</h3>
 <ul>
 	<li>Start Chapter 7 - Using Classifiers for Writing Recommendations</li>
+</ul>
+<h3>Day 72: Reading ML Applications</h3>
+<ul>
+	<li>Finish Chapter 7</li>
+	<li>Review Parth III - Iterate on Models</li>
 </ul>
