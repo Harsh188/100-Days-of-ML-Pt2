@@ -469,5 +469,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 72: Reading ML Applications</h3>
 <ul>
 	<li>Finish Chapter 7</li>
-	<li>Review Parth III - Iterate on Models</li>
+	<li>Review Part III - Iterate on Models</li>
+</ul>
+<h3>Day 73: Paper a Week</h3>
+<ul>
+	<li>Read Statistical Modeling: The Two Cultures - by Leo Breiman</li>
 </ul>
