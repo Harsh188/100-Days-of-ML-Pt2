@@ -475,3 +475,8 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read Statistical Modeling: The Two Cultures - by Leo Breiman</li>
 </ul>
+<h3>Day 74: Paper a Week</h3>
+<ul>
+	<li>Continue reading</li>
+</ul>
+
