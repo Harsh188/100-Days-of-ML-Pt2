@@ -482,6 +482,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 75: Paper a Week</h3>
 <ul>
 	<li>Read section 5 - the use of data models</li>
+</ul>
+<h3>Day 76: Paper a Week</h3>
+<ul>
 	<li>Start section 6 - the limitations of data models</li>
 </ul>
 
