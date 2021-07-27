@@ -491,3 +491,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Start section 8 - RASHOMON AND THE MULTIPLICITY OF GOOD MODELS</li>
 	<li>Continue reading</li>
 </ul>
+<h3>Day 78: Paper a Week</h3>
+<ul>
+	<li>Read section 9</li>
+</ul>
