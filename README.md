@@ -495,3 +495,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read section 9</li>
 </ul>
+<h3>Day 79: Prepare for ML Confrence</h3>
+<ul>
+	<li>Fix info on the slides</li>
+	<li>Make up a presentation</li>
+	<li>Add/subtract information</li>
+</ul>
