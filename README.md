@@ -501,3 +501,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Make up a presentation</li>
 	<li>Add/subtract information</li>
 </ul>
+<h3>Day 79: Paper a Week</h3>
+<ul>
+	<li>Read section 10</li>
+</ul>
