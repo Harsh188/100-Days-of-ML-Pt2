@@ -508,4 +508,11 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 81: Paper a Week</h3>
 <ul>
 	<li>Read section 11</li>
+	<li>Read section 12</li>
+	<li>Finished Statistical Modeling: The Two Cultures by Leo Breiman</li>
+</ul>
+<h3>Day 82: Paper a Week</h3>
+<ul>
+	<li>Start reading A Study in Rashomon Curves and Volumes: A New Perspective on Generalization and Model Simplicity in Machine Learning (Semenova et al)</li>
+	<li>Update the Paper a Week repository with annotated papers</li>
 </ul>
