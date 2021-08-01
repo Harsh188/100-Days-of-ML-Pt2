@@ -515,4 +515,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Start reading A Study in Rashomon Curves and Volumes: A New Perspective on Generalization and Model Simplicity in Machine Learning (Semenova et al)</li>
 	<li>Update the Paper a Week repository with annotated papers</li>
+	<li>Checked out Ishan Misra and Yann LeCun's blog post on Self-supervised learning</li>
+</ul>
+<h3>Day 83: Self-supervised learning</h3>
+<ul>
+	<li>Finish reading [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)</li>
+	<li>Continue with Paper a Week: Rashomon Curves and Volumes</li>
 </ul>
