@@ -522,3 +522,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Finish reading [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)</li>
 	<li>Continue with Paper a Week: Rashomon Curves and Volumes</li>
 </ul>
+<h3>Day 84: Paper a Week</h3>
+<ul>
+	<li>Read Paper a Week: Rashomon Curves and Volumes</li>
+</ul>
