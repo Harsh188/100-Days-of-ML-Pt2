@@ -526,3 +526,8 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read Paper a Week: Rashomon Curves and Volumes</li>
 </ul>
+<h3>Day 85: Paper a Week</h3>
+<ul>
+	<li>Explore the different statistical concepts introduced in Rashomon Curves & Volumes</li>
+	<li>Continue reading Rashomon Curves and Volumes</li>
+</ul>
