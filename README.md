@@ -531,3 +531,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Explore the different statistical concepts introduced in Rashomon Curves & Volumes</li>
 	<li>Continue reading Rashomon Curves and Volumes</li>
 </ul>
+<h3>Day 86: Complexity Measures</h3>
+<ul>
+	<li>Learn about the different complexity measures introduced in the Rashomon Cruves paper</li>
+</ul>
