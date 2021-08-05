@@ -531,7 +531,13 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Explore the different statistical concepts introduced in Rashomon Curves & Volumes</li>
 	<li>Continue reading Rashomon Curves and Volumes</li>
 </ul>
-<h3>Day 86: Complexity Measures</h3>
+<h3>Day 86: AI/ML Research</h3>
 <ul>
 	<li>Learn about the different complexity measures introduced in the Rashomon Cruves paper</li>
+	<li>Read [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)</li>
+	<li>Checked out reading lists for AI from [Stanford](http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf) and [Berkley](https://ml.berkeley.edu/reading-list/)</li>
+</ul>
+<h3>Day 87: EfficientNet</h3>
+<ul>
+	<li>Read the [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) paper</li>
 </ul>
