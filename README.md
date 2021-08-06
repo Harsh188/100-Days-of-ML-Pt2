@@ -540,4 +540,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 87: EfficientNet</h3>
 <ul>
 	<li>Read the [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) paper</li>
+	<li>Learn about FLOPS</li>
+</ul>
+<h3>Day 88: Yolo</h3>
+<ul>
+	<li>Read the [Yolo](https://arxiv.org/abs/1506.02640) paper</li>
 </ul>
