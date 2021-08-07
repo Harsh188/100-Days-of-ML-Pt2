@@ -546,3 +546,9 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Read the [Yolo](https://arxiv.org/abs/1506.02640) paper</li>
 </ul>
+<h3>Day 89: Implementing EfficientNet</h3>
+<ul>
+	<li>Lay out the architecture of EfficientNet</li>
+	<li>Figure out if its possible to code it using TensorFlow</li>
+	<li>Start implementation</li>
+</ul>
