@@ -552,3 +552,8 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Figure out if its possible to code it using TensorFlow</li>
 	<li>Start implementation</li>
 </ul>
+<h3>Day 90: Read MobileNetV2 & MnasNet</h3>
+<ul>
+	<li>Understand what MBConv blocks are</li>
+	<li>Learn about inverted residual convolution<li>
+</ul>
