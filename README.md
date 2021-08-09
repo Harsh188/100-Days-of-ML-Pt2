@@ -555,5 +555,10 @@ This whole challenge will be documented on youtube during live streams. The link
 <h3>Day 90: Read MobileNetV2 & MnasNet</h3>
 <ul>
 	<li>Understand what MBConv blocks are</li>
-	<li>Learn about inverted residual convolution<li>
+	<li>Learn about inverted residual convolution</li>
+</ul>
+<h3>Day 91: Read MobileNetV2</h3>
+<ul>
+	<li>Get an understanding of the Bottleneck residual block</li>
+	<li>What are dwise layers?</li>
 </ul>
