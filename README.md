@@ -562,3 +562,8 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Get an understanding of the Bottleneck residual block</li>
 	<li>What are dwise layers?</li>
 </ul>
+<h3>Day 92: Implement EfficientNet</h3>
+<ul>
+	<li>Start by implementing a simple convblock</li>
+	<li>Design and code the MBConv block</li>
+</ul>
