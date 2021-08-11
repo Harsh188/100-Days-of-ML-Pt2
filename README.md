@@ -567,3 +567,8 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Start by implementing a simple convblock</li>
 	<li>Design and code the MBConv block</li>
 </ul>
+<h3>Day 93: Read YOLO</h3>
+<ul>
+	<li>Learn about the architecture of YOLO</li>
+	<li>Continue with the berkely reading list</li>
+</ul>
