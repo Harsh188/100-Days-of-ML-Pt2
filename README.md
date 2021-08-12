@@ -572,3 +572,7 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Learn about the architecture of PointNet</li>
 	<li>Continue with the berkely reading list</li>
 </ul>
+<h3>Day 94: Read Yann LeCun's paper on Deep Learning</h3>
+<ul>
+	<li> Continue reading the paper</li>
+</ul>
