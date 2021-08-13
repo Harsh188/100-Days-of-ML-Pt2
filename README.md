@@ -576,3 +576,8 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li> Continue reading the paper</li>
 </ul>
+<h3>Day 95: Continue reading Deep Learning</h3>
+<ul>
+	<li>Finish reading the supervised learning section</li>
+	<li>Start reading the backpropagation section</li>
+</ul>
