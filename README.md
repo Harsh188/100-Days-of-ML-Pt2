@@ -576,8 +576,14 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li> Continue reading the paper</li>
 </ul>
-<h3>Day 95: Continue reading Deep Learning</h3>
+<h3>Day 95: Semi Supervised Learning</h3>
 <ul>
-	<li>Finish reading the supervised learning section</li>
-	<li>Start reading the backpropagation section</li>
+	<li>[DeepMind’s New Super Model: Perceiver IO is a Transformer that can Handle Any Dataset](https://pub.towardsai.net/deepminds-new-super-model-perceiver-io-is-a-transformer-that-can-handle-any-dataset-dfcffa85fe61)</li>
+	<li>Breifly learn about multi-modal models</li>
+	<li>[Learn about semi-supervised learning models](http://www.cs.cmu.edu/~10701/slides/17_SSL.pdf)</li>
+	<li>What is the co-training algorithm</li>
+</ul>
+<h3>Day 96: Multi-Modal</h3>
+<ul>
+	<li>Learn more about the functionality of multi-modal models</li>
 </ul>
