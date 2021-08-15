@@ -583,7 +583,14 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>[Learn about semi-supervised learning models](http://www.cs.cmu.edu/~10701/slides/17_SSL.pdf)</li>
 	<li>What is the co-training algorithm</li>
 </ul>
-<h3>Day 96: Multi-Modal</h3>
+<h3>Day 96: Co-Training Algorithm</h3>
+<ul>
+	<li> Learn about the co-training algorithm in depth</li>
+	<li>Read [Combining Labeled and Unlabeled Data with Co-Trainingy (Mitchell et all)](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf)</li>
+	<li>Review SSL with [Semi-Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/SSL_EoML.pdf)</li>
+</ul>
+
+<h3>Day 97: Multi-Modal</h3>
 <ul>
 	<li>Learn more about the functionality of multi-modal models</li>
 </ul>
