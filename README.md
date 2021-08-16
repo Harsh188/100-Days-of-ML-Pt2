@@ -589,8 +589,11 @@ This whole challenge will be documented on youtube during live streams. The link
 	<li>Read [Combining Labeled and Unlabeled Data with Co-Trainingy (Mitchell et all)](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf)</li>
 	<li>Review SSL with [Semi-Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/SSL_EoML.pdf)</li>
 </ul>
-
 <h3>Day 97: Multi-Modal</h3>
 <ul>
 	<li>Learn more about the functionality of multi-modal models</li>
+</ul>
+<h3>Day 98: SSL and Weakly Supervised Learning</h3>
+<ul>
+	<li>Learn about the difference between SSL and WSL</li>
 </ul>
