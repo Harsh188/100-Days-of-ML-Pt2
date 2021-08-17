@@ -597,3 +597,7 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Learn about the difference between SSL and WSL</li>
 </ul>
+<h3>Day 99: Write article about 100 Days of ML</h3>
+<ul>
+	<li>Start on the medium article</li>
+</ul>
