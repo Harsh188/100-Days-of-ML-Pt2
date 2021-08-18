@@ -601,3 +601,7 @@ This whole challenge will be documented on youtube during live streams. The link
 <ul>
 	<li>Start on the medium article</li>
 </ul>
+<h3>Day 100: Challenge Completed</h3>
+<ul>
+	<li>Finish the medium article</li>
+</ul>
