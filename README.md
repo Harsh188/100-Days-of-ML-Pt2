@@ -28,8 +28,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - [ ] Learn more about deep reinforcement learning
 	- [x] Markov Chains
 	- [x] Stationary distribution probabilities
-	- [ ] Markov Decision Processes
-- [ ] Learn more about generative learning
+	- [x] Markov Decision Processes
+- [x] Learn more about generative learning
 - [ ] Learn about AWS microservices
 
 [Additional]
